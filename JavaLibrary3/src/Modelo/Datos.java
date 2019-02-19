@@ -15,5 +15,9 @@ public class Datos {
         return base;
     }
     
+    public void setbase(double base) {  //mostrar
+        this.base = base;
+    }
+    
     
 }
