@@ -10,5 +10,10 @@ package Modelo;
  * @author USUARIO
  */
 public class Datos {
+ double base;
+    public double getbase() {
+        return base;
+    }
+    
     
 }
