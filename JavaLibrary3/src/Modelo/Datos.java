@@ -31,4 +31,8 @@ public class Datos {
         return lado3;
     }
     
+   public void setbase(double base){
+       this.base = base;
+   } 
+    
 }
